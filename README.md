@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4nemfreddo
+- 👋 Hi, I’m @4nemfreddo, this is a collection of knowledge I've gathered in this vast ecosystem
 - 👀 I’m interested in Cyber-security and its related technologies
 - 📫 How to reach me https://www.linkedin.com/in/frederickgmwangi/
 
