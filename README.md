@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Security Operation Center Home Lab using Wazuh, The Hive and a variety of Virtual Machines hosted on AWS and Google Cloud<br>👯 I’m looking to collaborate on building cloud based information security solutions<br>🤝 I’m looking for help with implementing remote SOC Labs using Splunk<br>🌱 I’m currently learning Low Level System Languages and their implementations<br>💬 Ask me about various cybersecurity solutions and their infrastructure<br>⚡ Fun fact; I am entirely self taught
+🔭 I’m currently working on a Security Operation Center Home Lab using Wazuh, The Hive and a variety of Virtual Machines hosted on AWS and Google Cloud<br>👯 I’m looking to collaborate on building cloud based information security solutions and their infrastructure<br>🤝 I’m looking for help with implementing remote SOC Lab Solutions built to secure data-driven PaaS and Saas<br>🌱 I’m currently learning Low Level System Languages and their implementations in Reverse Engineering<br>💬 Ask me about various cybersecurity solutions for your projects<br>⚡ Fun fact; T H E  W O R L D  I S  Y O U R S >
 
 
 ## 🌐 Socials:
