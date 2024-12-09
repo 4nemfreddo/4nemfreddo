@@ -1,5 +1,5 @@
 # 💫 Hi, my name is Freddo:
-I am a Software Developer and Information Security Analyst <br>👯 I’m looking to collaborate on building web applications and cloud based information security solutions for businesses<br>🤝 I’m looking for help with implementing software solutions built to secure data-driven PaaS and Saas<br>🌱 I’m currently learning Low Level System Languages and their implementations in building computer systems from the ground up, within Reverse Engineering<br>💬 Ask me about various software and cybersecurity solutions available for your projects<br>⚡ Fun fact; T H E  W O R L D  I S  Y O U R S >
+I am a Software Developer <br>👯 I’m looking to collaborate on building web applications and cloud based information security solutions for businesses<br>🤝 I’m looking for help with implementing software solutions built for Platform-as-a-Service and Software-as-a-Service based businesses<br>🌱 I’m currently AWS Certified and looking to expand my portfolio<br>💬 Ask me about various software and cloud solutions for your projects<br>⚡ Fun fact; T H E  W O R L D  I S  Y O U R S >
 
 
 ## 🌐 Socials:
