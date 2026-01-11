@@ -1,4 +1,4 @@
-# 💫 Hi, I’m Freddo!  
+# 💫 Hi, I’m Freddie!  
 
 👋 **Welcome to my GitHub!**  
 I’m a **Software Developer** passionate about building scalable web applications and cloud-based security solutions for businesses.  
