@@ -9,8 +9,7 @@ I’m a **Software Developer** passionate about building scalable web applicatio
 
 ## 🌱 Current Focus  
 - Enhancing my **AWS expertise** to create robust, cloud-native solutions.  
-- Diving deeper into **Data Engineering** for infrastructure automation.  
-
+- Diving deeper into **Data Engineering**.
 ## 💬 Ask Me About  
 - Designing **custom software** and **cloud architectures** for your projects.   
 
