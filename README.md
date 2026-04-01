@@ -1,19 +1,18 @@
 # 💫 Hi, I’m Freddie!  
 
 👋 **Welcome to my GitHub!**  
-I’m a **Software Developer** passionate about building scalable web applications and cloud-based security solutions for businesses.  
+I’m a **Software Developer** passionate about building scalable web applications and cloud-based solutions.  
 
 ## 🚀 What I’m Working On  
-- Collaborating on **web applications** and **cloud-based information security** projects.  
+- Collaborating on **web applications**, **data** and **cloud-based information security** projects.  
 - Expanding my portfolio with **Platform-as-a-Service (PaaS)** and **Software-as-a-Service (SaaS)** solutions.  
 
 ## 🌱 Current Focus  
 - Enhancing my **AWS expertise** to create robust, cloud-native solutions.  
-- Diving deeper into **Terraform** for infrastructure automation.  
+- Diving deeper into **Data Engineering** for infrastructure automation.  
 
 ## 💬 Ask Me About  
-- Designing **custom software** and **cloud architectures** for your projects.  
-- Best practices for **security in the cloud** and **backup management**  
+- Designing **custom software** and **cloud architectures** for your projects.   
 
 ## ⚡ Fun Fact  
 **T H E  W O R L D  I S  Y O U R S.** 🌍  
@@ -24,7 +23,7 @@ Feel free to fork a project or connect with me here. Let’s build something ama
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederickgmwangi/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@frederickg97) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederick-mwangi/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@frederickg97) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
